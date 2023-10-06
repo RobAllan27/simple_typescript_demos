@@ -2,7 +2,7 @@
 
 Rob Allan
 
-Really a set of notes and demo code on the sue of typescript. Typescript being a supersetof Javascirpt and intrdocuing types (classes  / types / interfaces etc).
+Really a set of notes and demo code on the use of typescript. Typescript being a superset of Javascript and introducing types (classes  / types / interfaces etc).
 
 This is based on the following page - acknowledgement.
 https://www.typescripttutorial.net/
@@ -69,7 +69,7 @@ Generic Classes
 Generic Interfaces
 
 # Modules
-TypeScript Modules – modules in TypeScript and how to use them in other modules - imprt expeort etc.
+TypeScript Modules – modules in TypeScript and how to use them in other modules - import export etc.
 
 # TypeScript in Node.js
-Node.js TypeScript – how to set up a development environment for using TypeScript in the Node.js project - src versis build etc.
+Node.js TypeScript – how to set up a development environment for using TypeScript in the Node.js project - src versus build etc. This requires the root and build folders to be defined in the config script.
